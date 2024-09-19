@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Manish Chouhan! 👋
 
-<!--
-**Manish-Cactus/Manish-Cactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | AI Enthusiast | Full-Stack Developer**
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username) [![Linkedin Badge](https://img.shields.io/badge/-manishchouhan08-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manishchouhan08/)](https://www.linkedin.com/in/manishchouhan08/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me:
+
+I'm a passionate software engineer currently working remotely from Jaipur with **Cactus Communications** as a **Lead Developer** on Paperpal Preflight, an AI-powered research platform. I specialize in **Next.js, Node.js, JavaScript**, and enjoy optimizing processes and automating workflows.
+
+- 🧑‍💻 **Proficient in:** JavaScript, Next.js, React.js
+- 🏆 **Awards & Projects:**
+  - **Paperpal:** AI writing assistant endorsed by 400+ journals globally
+  - **Preflight AI Assistant:** Preferred by 20,000+ academics for manuscript submission
+
+---
+
+### 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+---
+
+### 🔥 GitHub Stats:
+
+[![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
+
+---
+
+### 📈 GitHub Contributions:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+
+---
+
+
+### 📝 How to Reach Me:
+
+- Personal Email: [mchouhan8600@gmail.com](mailto:mchouhan8600@gmail.com)
+- Work Email: [manish.chouhan@cactusglobal.com](mailto:manish.chouhan@cactusglobal.com)
+- LinkedIn: [Manish Chouhan](https://www.linkedin.com/in/manishchouhan08/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
