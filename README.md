@@ -8,7 +8,7 @@
 
 ### 🚀 About Me:
 
-I'm a passionate software engineer currently working remotely from Jaipur with **Cactus Communications** as a **Lead Developer** on Paperpal Preflight, an AI-powered research platform. I specialize in **Next.js, Node.js, JavaScript**, and enjoy optimizing processes and automating workflows.
+I'm a passionate software engineer currently working remotely from Jaipur with **Cactus Communications** as a **Software Developer** on Paperpal Preflight, an AI-powered research platform. I specialize in **Next.js, Node.js, JavaScript**, and enjoy optimizing processes and automating workflows.
 
 - 🧑‍💻 **Proficient in:** JavaScript, Next.js, React.js
 - 🏆 **Awards & Projects:**
