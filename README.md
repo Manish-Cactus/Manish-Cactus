@@ -31,7 +31,7 @@ I'm a passionate software engineer currently working remotely from Jaipur with *
 #### **My Activity Stats from 2021 - 2023:**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manish-Cactus&theme=dracula" alt="GitHub Stats" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manish-Cactus&theme=dracula&utcOffset=5" alt="GitHub Productive Time" />
 </div>
 
