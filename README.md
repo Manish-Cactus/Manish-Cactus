@@ -28,15 +28,15 @@ I'm a passionate software engineer currently working remotely from Jaipur with *
 
 ### 🔥 GitHub Stats:
 
-[![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish-Cactus&show_icons=true&theme=radical)](https://github.com/your-github-username)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Cactus&layout=compact&theme=radical)](https://github.com/your-github-username)
 
 ---
 
 ### 📈 GitHub Contributions:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish-Cactus&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -49,4 +49,4 @@ I'm a passionate software engineer currently working remotely from Jaipur with *
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Manish-Cactus&color=blue)
