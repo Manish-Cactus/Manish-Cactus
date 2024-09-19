@@ -26,19 +26,52 @@ I'm a passionate software engineer currently working remotely from Jaipur with *
 
 ---
 
-### 🔥 GitHub Stats:
+### 🔥 GitHub Stats & Contributions:
 
-[![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish-Cactus&show_icons=true&theme=radical)](https://github.com/your-github-username)
+#### **My Activity Stats from 2021 - 2023:**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Cactus&layout=compact&theme=radical)](https://github.com/your-github-username)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manish-Cactus&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manish-Cactus&theme=dracula&utcOffset=5" alt="GitHub Productive Time" />
+</div>
+
+---
+
+### 📈 Contribution Activity (3D):
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Manish-Cactus&bg_color=1a1b27&color=be90f2&line=638fda&point=f5f5f5&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
-### 📈 GitHub Contributions:
+### 🎨 3D Contribution Calendar:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish-Cactus&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manish-Cactus/Manish-Cactus/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</div>
 
 ---
+
+### 🏆 GitHub Achievements:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish-Cactus&theme=monokai&no-frame=true&row=1&column=6)
+
+---
+
+### 🌍 Most Used Languages:
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manish-Cactus&theme=dracula" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish-Cactus&theme=dracula" alt="Languages Per Repo" />
+</div>
+
+---
+
+### 🏅 Custom Metrics:
+
+![Metrics](https://metrics.lecoq.io/Manish-Cactus?template=classic&isocalendar=1&languages=1&achievements=1&notable=1&stars=1&base=header%2C%2E%2E%2E&languages.limit=8&achievements.limit=6&achievements.threshold=C&config.timezone=Asia%2FCalcutta)
+
 
 
 ### 📝 How to Reach Me:
