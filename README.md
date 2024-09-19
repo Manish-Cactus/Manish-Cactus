@@ -2,7 +2,7 @@
 
 **Software Engineer | AI Enthusiast | Full-Stack Developer**
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username) [![Linkedin Badge](https://img.shields.io/badge/-manishchouhan08-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manishchouhan08/)](https://www.linkedin.com/in/manishchouhan08/)
+[![GitHub followers](https://img.shields.io/github/followers/Manish-Cactus?style=social)](https://github.com/your-github-username) [![Linkedin Badge](https://img.shields.io/badge/-manishchouhan08-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manishchouhan08/)](https://www.linkedin.com/in/manishchouhan08/)
 
 ---
 
